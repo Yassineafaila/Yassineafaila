@@ -1,4 +1,4 @@
-                                 [![MasterHead](https://raw.githubusercontent.com/pspiagicw/pspiagicw/master/gif3.gif)
+
 <h1 align="center">Hi 👋, I'm y Yassine afaila</h1>
 <h3 align="center">A passionate frontend developer from morocco.</h3>
 
