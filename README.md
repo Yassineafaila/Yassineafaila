@@ -1,4 +1,4 @@
-[![MasterHead](https://tenor.com/view/coding-gif-18657810)
+[![MasterHead](https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif)
 <h1 align="center">Hi 👋, I'm y Yassine afaila</h1>
 <h3 align="center">A passionate frontend developer from morocco.</h3>
 
